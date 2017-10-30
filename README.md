@@ -4,7 +4,7 @@
 [![GitHub Tag](https://img.shields.io/github/tag/srs/pxt-BitRobot.svg)]()
 
 This library provides a Microsoft PXT package for BitRobot, see
-https://4tronix.co.uk/BitRobot/.
+http://www.makeredu.net
 
 ## Driving the motor
 
