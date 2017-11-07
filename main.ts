@@ -15,7 +15,7 @@ enum BBMotor {
   * Enumeration of line sensors.
   */
 enum BBLineSensor {
-    //% block="走"
+    //% block="左"
     Left,
     //% block="右"
     Right
