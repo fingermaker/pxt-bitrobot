@@ -47,7 +47,7 @@ enum BBPingUnit {
  * Custom blocks
  */
 //% weight=10 color=#009ACD icon="\uf1b9"
-namespace 机器人 {
+namespace BitRobot {
 
     let neoStrip: neopixel.Strip;
 
