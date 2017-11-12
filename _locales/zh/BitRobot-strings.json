@@ -19,5 +19,5 @@
   "BitRobot.neoShift|block": "LED走马灯",
   "BitRobot.neoRotate|block": "LED循环显示",
   "BitRobot.neoBrightness|block": "设置LED功率 %brightness",
-  "BitRobot.sonar|block": "读超声波 %unit"
+  "BitRobot.sonar|block": "超声波的值 %unit "
 }
