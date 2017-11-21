@@ -5,7 +5,7 @@
     "license": "Apache",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:fingermaker/pxt-neopixel"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.3.4"
     },
     "files": [
         "README.md",
