@@ -5,7 +5,7 @@
     "license": "Apache",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:fingemaker/pxt-neopixel"
+        "neopixel": "https://github.com/fingemaker/pxt-neopixel"
     },
     "files": [
         "README.md",
