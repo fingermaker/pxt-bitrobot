@@ -5,7 +5,7 @@
     "license": "Apache",
     "dependencies": {
         "core": "*",
-		"neopixel": "microsoft/pxt-neopixel#v0.3.4"
+		"neopixel": "*"
     },
     "files": [
         "README.md",
