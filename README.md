@@ -1,10 +1,7 @@
 # BitRobot Package for Microsoft PXT
 
-[![Build Status](https://travis-ci.org/srs/pxt-BitRobot.svg?branch=master)](https://travis-ci.org/srs/pxt-BitRobot)
-[![GitHub Tag](https://img.shields.io/github/tag/srs/pxt-BitRobot.svg)]()
+This library provides a Microsoft PXT package for BitRobot, see http://www.makeredu.net
 
-This library provides a Microsoft PXT package for BitRobot, see
-http://www.makeredu.net
 
 ## Driving the motor
 

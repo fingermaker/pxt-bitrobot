@@ -1,20 +1,27 @@
 {
     "name": "BitRobot",
-    "version": "0.0.1",
-    "description": "A BitRobot package for pxt-microbit",
+    "version": "0.5.1",
+    "description": "A RobotBit package for pxt-microbit",
     "license": "Apache",
     "dependencies": {
-        "core": "*",
-		"neopixel": "github:fingermaker/pxt-neopixel#v0.3.4"
+        "core": "*"
     },
     "files": [
-        "README.md",
+        
         "main.ts",
-        "_locales/zh/BitRobot-strings.json"
+        "sendBuffer.asm"
     ],
     "testFiles": [
         "tests.ts"
     ],
-    "yotta": {},
+    "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "enabled": 0
+                }
+            }
+        }
+    },
     "public": true
 }

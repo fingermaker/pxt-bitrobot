@@ -8,9 +8,9 @@
   "BBLightSensor.Right|block": "右",
   "BitRobot.neo|block": "LED初始化",
   "BitRobot.motor|block": "马达 %motor|速度 %speed",
-  "BitRobot.buzz|block": "蜂鸣器音量 %flag",
-  "BitRobot.readLine|block": "巡线传感器（有或者没有） %sensor",
-  "BitRobot.readLight|block": "地面灰度 %sensor",
+  "BitRobot.buzz|block": "蜂鸣器%flag",
+  "BitRobot.readLine|block": "地面灰度值 %sensor",
+  "BitRobot.readLight|block": "巡线传感器值 %sensor",
   "BitRobot.neoSetColor|block": "设置LED颜色为 %rgb=neopixel_colors",
   "BitRobot.neoSetPixelColor|block": "设置LED编号 %offset|的颜色为 %rgb=neopixel_colors",
   "BitRobot.neoShow|block": "LED显示",
@@ -19,5 +19,7 @@
   "BitRobot.neoShift|block": "LED走马灯",
   "BitRobot.neoRotate|block": "LED循环显示",
   "BitRobot.neoBrightness|block": "设置LED功率 %brightness",
-  "BitRobot.sonar|block": "超声波的值 %unit "
+  "BitRobot.sonar|block": "读超声波 %unit"
 }
+
+
